@@ -1,2 +1,2 @@
 # counter2015
-An amateur scala programmer
+An amateur scala programmer :satisfied:
