@@ -1,6 +1,8 @@
 # counter2015
 An amateur Scala programmer :satisfied:
 
+[![counter2015's github stats](https://github-readme-stats.vercel.app/api?username=counter2015)](https://github.com/counter2015/github-readme-stats)
+
 :seedling:  I'm reading 
 
 - Programming in Scala 3th Edition
