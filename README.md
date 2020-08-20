@@ -1,4 +1,4 @@
-# counter2015
+# counter2015 ![](https://www.codewars.com/users/counter2015/badges/micro)
 An amateur Scala programmer :satisfied:
 
 [![counter2015's github stats](https://github-readme-stats.vercel.app/api?username=counter2015)](https://github.com/counter2015/github-readme-stats)
