@@ -16,3 +16,5 @@ An amateur Scala programmer :satisfied:
 :shit: A small project https://counter2015.com/bing-daily-images/
 
 :bell:how to reach me: https://counter2015.com/about
+
+![](https://visitor-badge.laobi.icu/badge?page_id=counter2015.counter2015-github-readme)
