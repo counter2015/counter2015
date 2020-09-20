@@ -10,7 +10,7 @@ An amateur Scala programmer :satisfied:
 
 :eyes: I'm learning
 
-- [Functional Program Design](https://www.coursera.org/learn/progfun2)
+- [Paraller Programming](https://www.coursera.org/learn/parprog1)
 - [MIT 6.824](https://www.bilibili.com/video/BV1R7411t71W?p=1)
 
 :shit: A small project https://counter2015.com/bing-daily-images/
