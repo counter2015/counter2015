@@ -1,5 +1,5 @@
 # counter2015 [![codewars badge](https://www.codewars.com/users/counter2015/badges/micro)](https://www.codewars.com/users/counter2015/)
-An naive Scala programmer :satisfied:
+A naive Scala programmer :satisfied:
 
 
 :shit: A small project https://counter2015.com/bing-daily-images/
