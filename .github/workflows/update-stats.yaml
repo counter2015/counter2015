@@ -1,0 +1,29 @@
+name: Update GitHub Contributor Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Grants write permission to the contents of the repository
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      - name: Download GitHub Contributor Stats
+        uses: nick-fields/retry@v3
+        with:
+          command: |
+            TMP_SVG_FILE="$(mktemp)"
+            curl --compressed --fail --output "$TMP_SVG_FILE" "https://github-contributor-stats.vercel.app/api?username=counter2015&hide_contributor_rank=false" &&
+            ! grep -q "Something went wrong!" "$TMP_SVG_FILE" &&
+            mv "$TMP_SVG_FILE" github-contributor-stats.svg
+          max_attempts: 10
+          timeout_minutes: 10
+          retry_wait_seconds: 60
+      - uses: actions4git/add-commit-push@v1
+        continue-on-error: true
