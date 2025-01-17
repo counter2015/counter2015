@@ -5,3 +5,5 @@ A Scala programmer :satisfied:.
 
 
 :bell:how to reach me: https://counter2015.com/about
+
+![github-contributor-stats](github-contributor-stats.svg)
