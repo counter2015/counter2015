@@ -1,8 +1,8 @@
 
       <svg
         width="495"
-        height="438"
-        viewBox="0 0 495 438"
+        height="471"
+        viewBox="0 0 495 471"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -422,6 +422,34 @@
           <circle cx="12.5" cy="12.5" r="12.5" fill="#FFFFFF" />
         </clipPath>
       </defs>
+      <image xlink:href="data:image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAADcElEQVR4nOyXvUv7WhjHn/yisaUgCmraqqCVBKyoSw1Kfduk4CDo4qCbuEhHp7o4uzg5OVgQX/4BJ0F0UkRpdSjWNr4gBhGq9dakNU0u3PLrPb+Tpr1HHbyQz9Q++ebJ9+R5znPaX/AjsWyRYNkiwbJFgmWLBMsWCZYtEixbJFSVjHIc53a70cjj4+PV1RUAsCzb29tbCOq6jmrMvhY/ZLPZeDz+9PT0GaderzeXy+l/ksvluru7GYa5v7/Xv4CqqpFIJBgM2u12MluCIJTMODAwYLfbX15evmKrSDwe7+/vN/NAlYyOjY11dHSgEVEU9/b2AKCzs3N0dJSiKJZlFxcXbTZb+UXqup5MJmVZ5jiupqYGvSTL8uTkZCHtdxIOh8vXa3V1tbW1tSB2OBxzc3PPz8+oJp1Oe73e7/RUV1cXjUbNPGmaNjMzY7yL4zhJklDl0dER2YN5no/FYn+ZYNwWKOFw2Czt1NQUJh4eHiawtbCwUKlxTREEwSwtRVHYdl5bW8M0pedWgc3NTUEQsAFmxOVyYf2Rz+fPz88BwOPxtLW1FeOJROL29lbX9bOzs5aWlmLc7/eXf8RnoGn65OQEXb0sywDQ3NycyWTQeDqdbmhoAIDt7W00bhyw33D45PN5RVGM8erqaoZh0AjDMFVVJepDUficKldEALDZbEtLSyzLAoCmaTs7O/v7+w6HIxQKNTY2FjQej2doaOiPpP9wc3MzODiI1vfi4kKSJADABhjxcTQ9PY2+7WQyCQDBYLBiyxfPzZKIooiK19fXMUGFIkaj0VQqpf3m4OAAAI6Pj19fXzVNK3Pj/Py82aVAIIDuAwDY3d0tb6MENE3X/AYL+v1+rKmLqKo6Pj5uzOZ2u7FXdXp6auytr1Jm0Gez2VAoVFtbW1zJxMTE3d0dqlEUpa+vz5gWt1lfX+/z+X79+re4iUTi+voaANrb23meR8U+n295eRkVG1EUJRKJfHx88Dzf1NSEXlJVdXZ2dmtrq/LqDw8PsUW/v787nU6Xy/X29lax0/87kiQFAgEzG/iAwCZN4eXTNE1RVMmR8wkeHh42NjZWVlZSqZSZBi+i0+kcGRlB6xKLxQonSU9PT1dX11cMZTIZURQvLy+xn9f/G37oPx/LFgmWLRIsWyRYtkiwbJFg2SLhh9r6OwAA//+wjKqA56KSegAAAABJRU5ErkJggg==" width="25" height="25" clip-path="url(#myCircle)"/>
+      <g transform="translate(30,16)">
+        <text class="stat bold">generator-theia-extension</text>
+      </g>
+      
+    <g data-testid="rank-circle" transform="translate(235, 0)">
+      <circle class="rank-circle-rim" cx="12.5" cy="12.5" r="14" />
+      <g class="rank-text"><text x="4" y="18.5">
+        S+
+       </text></g>
+    </g>
+    <g data-testid="rank-circle" transform="translate(285, 0)">
+      <circle class="rank-circle-rim" cx="12.5" cy="12.5" r="14" />
+      <g class="rank-text">
+        <text x="4" y="18.5">
+        B+
+       </text>
+      </g>
+    </g>
+    
+    </g>
+  </g><g transform="translate(0, 297)">
+    <g class="stagger" style="animation-delay: 1800ms" transform="translate(25, 0)">
+      <defs>
+        <clipPath id="myCircle">
+          <circle cx="12.5" cy="12.5" r="12.5" fill="#FFFFFF" />
+        </clipPath>
+      </defs>
       <image xlink:href="data:image/image/png;base64,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" width="25" height="25" clip-path="url(#myCircle)"/>
       <g transform="translate(30,16)">
         <text class="stat bold">example-scala</text>
@@ -443,8 +471,8 @@
     </g>
     
     </g>
-  </g><g transform="translate(0, 297)">
-    <g class="stagger" style="animation-delay: 1800ms" transform="translate(25, 0)">
+  </g><g transform="translate(0, 330)">
+    <g class="stagger" style="animation-delay: 1950ms" transform="translate(25, 0)">
       <defs>
         <clipPath id="myCircle">
           <circle cx="12.5" cy="12.5" r="12.5" fill="#FFFFFF" />
