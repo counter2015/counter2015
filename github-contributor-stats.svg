@@ -1,8 +1,8 @@
 
       <svg
         width="495"
-        height="471"
-        viewBox="0 0 495 471"
+        height="504"
+        viewBox="0 0 495 504"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -310,6 +310,34 @@
           <circle cx="12.5" cy="12.5" r="12.5" fill="#FFFFFF" />
         </clipPath>
       </defs>
+      <image xlink:href="data:image/image/jpeg;base64,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" width="25" height="25" clip-path="url(#myCircle)"/>
+      <g transform="translate(30,16)">
+        <text class="stat bold">scala-scraper</text>
+      </g>
+      
+    <g data-testid="rank-circle" transform="translate(235, 0)">
+      <circle class="rank-circle-rim" cx="12.5" cy="12.5" r="14" />
+      <g class="rank-text"><text x="4" y="18.5">
+        S+
+       </text></g>
+    </g>
+    <g data-testid="rank-circle" transform="translate(285, 0)">
+      <circle class="rank-circle-rim" cx="12.5" cy="12.5" r="14" />
+      <g class="rank-text">
+        <text x="4" y="18.5">
+        A+
+       </text>
+      </g>
+    </g>
+    
+    </g>
+  </g><g transform="translate(0, 165)">
+    <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
+      <defs>
+        <clipPath id="myCircle">
+          <circle cx="12.5" cy="12.5" r="12.5" fill="#FFFFFF" />
+        </clipPath>
+      </defs>
       <image xlink:href="data:image/image/jpeg;base64,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" width="25" height="25" clip-path="url(#myCircle)"/>
       <g transform="translate(30,16)">
         <text class="stat bold">os-lib</text>
@@ -331,8 +359,8 @@
     </g>
     
     </g>
-  </g><g transform="translate(0, 165)">
-    <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
+  </g><g transform="translate(0, 198)">
+    <g class="stagger" style="animation-delay: 1350ms" transform="translate(25, 0)">
       <defs>
         <clipPath id="myCircle">
           <circle cx="12.5" cy="12.5" r="12.5" fill="#FFFFFF" />
@@ -359,8 +387,8 @@
     </g>
     
     </g>
-  </g><g transform="translate(0, 198)">
-    <g class="stagger" style="animation-delay: 1350ms" transform="translate(25, 0)">
+  </g><g transform="translate(0, 231)">
+    <g class="stagger" style="animation-delay: 1500ms" transform="translate(25, 0)">
       <defs>
         <clipPath id="myCircle">
           <circle cx="12.5" cy="12.5" r="12.5" fill="#FFFFFF" />
@@ -387,8 +415,8 @@
     </g>
     
     </g>
-  </g><g transform="translate(0, 231)">
-    <g class="stagger" style="animation-delay: 1500ms" transform="translate(25, 0)">
+  </g><g transform="translate(0, 264)">
+    <g class="stagger" style="animation-delay: 1650ms" transform="translate(25, 0)">
       <defs>
         <clipPath id="myCircle">
           <circle cx="12.5" cy="12.5" r="12.5" fill="#FFFFFF" />
@@ -415,8 +443,8 @@
     </g>
     
     </g>
-  </g><g transform="translate(0, 264)">
-    <g class="stagger" style="animation-delay: 1650ms" transform="translate(25, 0)">
+  </g><g transform="translate(0, 297)">
+    <g class="stagger" style="animation-delay: 1800ms" transform="translate(25, 0)">
       <defs>
         <clipPath id="myCircle">
           <circle cx="12.5" cy="12.5" r="12.5" fill="#FFFFFF" />
@@ -443,8 +471,8 @@
     </g>
     
     </g>
-  </g><g transform="translate(0, 297)">
-    <g class="stagger" style="animation-delay: 1800ms" transform="translate(25, 0)">
+  </g><g transform="translate(0, 330)">
+    <g class="stagger" style="animation-delay: 1950ms" transform="translate(25, 0)">
       <defs>
         <clipPath id="myCircle">
           <circle cx="12.5" cy="12.5" r="12.5" fill="#FFFFFF" />
@@ -471,8 +499,8 @@
     </g>
     
     </g>
-  </g><g transform="translate(0, 330)">
-    <g class="stagger" style="animation-delay: 1950ms" transform="translate(25, 0)">
+  </g><g transform="translate(0, 363)">
+    <g class="stagger" style="animation-delay: 2100ms" transform="translate(25, 0)">
       <defs>
         <clipPath id="myCircle">
           <circle cx="12.5" cy="12.5" r="12.5" fill="#FFFFFF" />
