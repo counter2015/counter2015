@@ -1,8 +1,8 @@
 
       <svg
         width="495"
-        height="438"
-        viewBox="0 0 495 438"
+        height="405"
+        viewBox="0 0 495 405"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -366,34 +366,6 @@
           <circle cx="12.5" cy="12.5" r="12.5" fill="#FFFFFF" />
         </clipPath>
       </defs>
-      <image xlink:href="data:image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAADzUlEQVR4nOzYbWgbdRzA8d/d/e+a5oE0UpOl1FZn0rqlYZXg6sSHipLV6bBMHU7mi8GYIBt9szIY+EpwovjKDkFwsBeTFWp1D611s8MyN1y0tc6mD1nSRpaMXhtnr7nkn9z97/4SZaNvNtqsY0e5L4QkcA+/T8j/uARRSmEtxD7oAVYrE2K0TIjRMiFGy4QYLRNitEyI0TIhRsuEGK01A0Hl7qhjXKGkUrXq3JyHLC46iCQ5FUlyElm2q7Js1yllQRCKnu3bv3UGg1P5dNqL7Pas4HTKq0v4P2Ylv9l1SXIUr17dmO3p2ZmLRFp0jtNUWXYoCwuugii61ULBqgEAAYBbz6zLlXkxHvfNDgxs+3Xv3i/Do6PNjoaGhDg09MyVgwc/+zsWe8JWX58M7N//eWDfvmNlS0qQ1XpoGCOcSDya7Oj49GeOU34CoGO7d39FMK4Qz55tOw1AM5cuPa2pKnt+y5bB4c7OI+lz515OdHe/2RsKRX7p7DxS7rnvHaBpDJmdfZgWi9ziiRM7r/n9E38A0PFNm4YzJ0++cWs7ORpt+BGA5qen60rvF8fH/UuPo+Zylaebm39bmJjwPxDIPx8c+jBZATQpsOoMA3Sa5wupcLgve+ZMmyqKrhK0tB3J5YTLCCkaxvydjjVz/Pg7sa6u98qZo+zF/t+ayWVt+Hz326juoYzt3fePVr7a/l1FUzAKgqAu3U6TJDvF2Frd0nK5ODXVWIjH/RrGFpLP2ykAo5e+4gA6xdhCZdkh9vdvRU6nZPP54gzPK8hqLXAWi3K3WVa02JdW/P1Ca7br8EeW597qsbbvOaaJqVo1PtVIYpON6vTMehKfeYz8larVrt+o0fO4UnihdZAPhUY4vz+upNM1nNcrcm73HPJ4RK6qaoFBSMv09W3z7Nr1dYXbPQ8cd3swTVEQJwhkdSFK3iJ/c+hj5crAVq7+qWESGwuok5MbqawKtAAAFleG94dG+KbNEd4XiPIbmsaQz3+Nraws5np7X7ft2HEKdL10+UaszXZ7uPzoaFC6ePFZ74EDX5Tzwa4IQtKDz+MfOrpIMhqkOQCKGZ11bojygfZTaP3mCP/4kyOcpy59x/1T12tQ7SM3Sq/1QoHX0mmvdvNmNZmfr6YIEUc4fKEcxIogJHV0j/Ln4U9onge26pV+bl3b96j+pUHWvm5+2WfTdQD2/txMLAOiMUASdVq27zWGDU6wjtYhYJF2X6a5h5YBURkA3vB/2Zd91TJaa+bu14QYLRNitEyI0TIhRsuEGC0TYrRMiNEyIUZrzUD+DQAA//99HefjBrXOiQAAAABJRU5ErkJggg==" width="25" height="25" clip-path="url(#myCircle)"/>
-      <g transform="translate(30,16)">
-        <text class="stat bold">zio-json</text>
-      </g>
-      
-    <g data-testid="rank-circle" transform="translate(235, 0)">
-      <circle class="rank-circle-rim" cx="12.5" cy="12.5" r="14" />
-      <g class="rank-text"><text x="4" y="18.5">
-        S+
-       </text></g>
-    </g>
-    <g data-testid="rank-circle" transform="translate(285, 0)">
-      <circle class="rank-circle-rim" cx="12.5" cy="12.5" r="14" />
-      <g class="rank-text">
-        <text x="7.2" y="18.5">
-        A
-       </text>
-      </g>
-    </g>
-    
-    </g>
-  </g><g transform="translate(0, 231)">
-    <g class="stagger" style="animation-delay: 1500ms" transform="translate(25, 0)">
-      <defs>
-        <clipPath id="myCircle">
-          <circle cx="12.5" cy="12.5" r="12.5" fill="#FFFFFF" />
-        </clipPath>
-      </defs>
       <image xlink:href="data:image/image/png;base64,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" width="25" height="25" clip-path="url(#myCircle)"/>
       <g transform="translate(30,16)">
         <text class="stat bold">milvus-docs</text>
@@ -415,8 +387,8 @@
     </g>
     
     </g>
-  </g><g transform="translate(0, 264)">
-    <g class="stagger" style="animation-delay: 1650ms" transform="translate(25, 0)">
+  </g><g transform="translate(0, 231)">
+    <g class="stagger" style="animation-delay: 1500ms" transform="translate(25, 0)">
       <defs>
         <clipPath id="myCircle">
           <circle cx="12.5" cy="12.5" r="12.5" fill="#FFFFFF" />
@@ -443,8 +415,8 @@
     </g>
     
     </g>
-  </g><g transform="translate(0, 297)">
-    <g class="stagger" style="animation-delay: 1800ms" transform="translate(25, 0)">
+  </g><g transform="translate(0, 264)">
+    <g class="stagger" style="animation-delay: 1650ms" transform="translate(25, 0)">
       <defs>
         <clipPath id="myCircle">
           <circle cx="12.5" cy="12.5" r="12.5" fill="#FFFFFF" />
