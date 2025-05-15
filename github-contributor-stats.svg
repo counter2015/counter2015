@@ -1,8 +1,8 @@
 
       <svg
         width="495"
-        height="405"
-        viewBox="0 0 495 405"
+        height="438"
+        viewBox="0 0 495 438"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -425,6 +425,34 @@
       <image xlink:href="data:image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAIAAACRXR/mAAADcElEQVR4nOyXvUv7WhjHn/yisaUgCmraqqCVBKyoSw1Kfduk4CDo4qCbuEhHp7o4uzg5OVgQX/4BJ0F0UkRpdSjWNr4gBhGq9dakNU0u3PLrPb+Tpr1HHbyQz9Q++ebJ9+R5znPaX/AjsWyRYNkiwbJFgmWLBMsWCZYtEixbJFSVjHIc53a70cjj4+PV1RUAsCzb29tbCOq6jmrMvhY/ZLPZeDz+9PT0GaderzeXy+l/ksvluru7GYa5v7/Xv4CqqpFIJBgM2u12MluCIJTMODAwYLfbX15evmKrSDwe7+/vN/NAlYyOjY11dHSgEVEU9/b2AKCzs3N0dJSiKJZlFxcXbTZb+UXqup5MJmVZ5jiupqYGvSTL8uTkZCHtdxIOh8vXa3V1tbW1tSB2OBxzc3PPz8+oJp1Oe73e7/RUV1cXjUbNPGmaNjMzY7yL4zhJklDl0dER2YN5no/FYn+ZYNwWKOFw2Czt1NQUJh4eHiawtbCwUKlxTREEwSwtRVHYdl5bW8M0pedWgc3NTUEQsAFmxOVyYf2Rz+fPz88BwOPxtLW1FeOJROL29lbX9bOzs5aWlmLc7/eXf8RnoGn65OQEXb0sywDQ3NycyWTQeDqdbmhoAIDt7W00bhyw33D45PN5RVGM8erqaoZh0AjDMFVVJepDUficKldEALDZbEtLSyzLAoCmaTs7O/v7+w6HIxQKNTY2FjQej2doaOiPpP9wc3MzODiI1vfi4kKSJADABhjxcTQ9PY2+7WQyCQDBYLBiyxfPzZKIooiK19fXMUGFIkaj0VQqpf3m4OAAAI6Pj19fXzVNK3Pj/Py82aVAIIDuAwDY3d0tb6MENE3X/AYL+v1+rKmLqKo6Pj5uzOZ2u7FXdXp6auytr1Jm0Gez2VAoVFtbW1zJxMTE3d0dqlEUpa+vz5gWt1lfX+/z+X79+re4iUTi+voaANrb23meR8U+n295eRkVG1EUJRKJfHx88Dzf1NSEXlJVdXZ2dmtrq/LqDw8PsUW/v787nU6Xy/X29lax0/87kiQFAgEzG/iAwCZN4eXTNE1RVMmR8wkeHh42NjZWVlZSqZSZBi+i0+kcGRlB6xKLxQonSU9PT1dX11cMZTIZURQvLy+xn9f/G37oPx/LFgmWLRIsWyRYtkiwbJFg2SLhh9r6OwAA//+wjKqA56KSegAAAABJRU5ErkJggg==" width="25" height="25" clip-path="url(#myCircle)"/>
       <g transform="translate(30,16)">
         <text class="stat bold">theia-website</text>
+      </g>
+      
+    <g data-testid="rank-circle" transform="translate(235, 0)">
+      <circle class="rank-circle-rim" cx="12.5" cy="12.5" r="14" />
+      <g class="rank-text"><text x="4" y="18.5">
+        S+
+       </text></g>
+    </g>
+    <g data-testid="rank-circle" transform="translate(285, 0)">
+      <circle class="rank-circle-rim" cx="12.5" cy="12.5" r="14" />
+      <g class="rank-text">
+        <text x="7.2" y="18.5">
+        B
+       </text>
+      </g>
+    </g>
+    
+    </g>
+  </g><g transform="translate(0, 297)">
+    <g class="stagger" style="animation-delay: 1800ms" transform="translate(25, 0)">
+      <defs>
+        <clipPath id="myCircle">
+          <circle cx="12.5" cy="12.5" r="12.5" fill="#FFFFFF" />
+        </clipPath>
+      </defs>
+      <image xlink:href="data:image/image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADIAMgMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOYlOZnH+0f506HCx3BP/PI1TExa4fP94/zqN9G1HxDrUGmWDEI67pGPCqB1JrntfQ1TMCLUra0QxvljuJyO2avp4i09/IjbdGo+8dvFdpJ8KdK0+2Xz5ZLiY/eO/Az9BXAeJfDSadOzWuRF/cJzS9xysynTko8x2MZ0VobedLhXgK885Ge9dTpQ05I/9DRQp7jvXhmlXi2d0omUvCxwyjt7ivSNC17T1lEEO4Y7ms50+UIS1O/ytGVqit5GVBz1FL9sT1rHlZ0cyPJPMuP7QbHyoshGD6Zr0jwJcQ2+oTTy55jEYwO5Of6Vx+rOP7ReNowpjJGfWt7wPIp19CW5WN2XjOTtP/167I7XOKk7nU3+qzX9/dxQWp2Qbl8wDcuR69MVxGs2dxNZlrhAC+SueK6/w/fS2l/PFdWckccpJZ5VKfNnjg9RWJ4pkkkmcnhQ1c03s+p6aW66Hntv4VuL+QyxSIihhww9wP6itLT9EGn6iBPKGVfvBe9dn4D8Pr4m1Oe2810SOFmkKjoMjAz6k/yNcn4it5fD/iia1BLIhKn3rSMm9JHJVhFfCdOupaaFA/ecD+6aX+09N/6af98muAa8uSxIEnWk+2XXpJVezfcw52dNr9jLBOWuYJY5XJb5hgEdiKztOv5dKuVvI/vwneB6+o/EcVa8U+LJdVuHjR91vExEbMPmI61yImeZAHbl+M10UMPPkXPo+xzxqcux7RJJYa7Z2msGQtAybhHMScEHkEE9QQfauR13Vhf3DrEc5b5iOgqL4aeVqVzc2N7+8iWEuImYgbtwBOK2PEGl2llqCW9jbNGhAZiegJ7A1jXpcsuY9GjWc1ysn8DeNLDwY94l+JFS78sCZVzsK7uvfnNYfi7VbDXtZ82xkjYzEYZmAHPJrmfE8saR+SDmR26egFc9Ep6iphS5lzXM6tTlbSO+Hhe/IB+0Q/8AfdL/AMIvf/8APxF/33XEYb1NGG9TW3spdzDnXYs3P3/8+hqrB9yP8KtXP3/z/kaqwfcj/CvRl8Ryr4Tc8LSPF4rtjG7ITc4O044I5Feo61zeLnn5T/KvLPDP/I1Wv/X0P6V6nrP/AB+D/dP8q4cUdeGPDrxmfUJy7FjuPJOakh6t9Kiuf+P+f/fNSw9Wq4Gc9yyoG0fSlwPSkX7o+lLWpmf/2Q==" width="25" height="25" clip-path="url(#myCircle)"/>
+      <g transform="translate(30,16)">
+        <text class="stat bold">scalafix-maven-plugin</text>
       </g>
       
     <g data-testid="rank-circle" transform="translate(235, 0)">
