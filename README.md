@@ -9,3 +9,6 @@
 :bell:how to reach me: https://counter2015.com/about
 
 ![github-contributor-stats](github-contributor-stats.svg)
+
+## Code Statistics From WakaTime
+![language_stats.png](language_stats.png)

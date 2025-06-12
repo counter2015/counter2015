@@ -1,0 +1,36 @@
+name: wakatime.yml
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight
+  workflow_dispatch: # Allows manual triggering
+jobs:
+  update-wakatime:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Grants write permission to the contents of the repository
+    steps:
+      - name: Set up JDK
+        uses: actions/setup-java@v4
+        with:
+          distribution: 'adopt'
+          java-version: '21'
+
+      - name: setup-scala-cli
+        uses: VirtusLab/scala-cli-setup@main
+
+      - name: checkout
+        uses: actions/checkout@v4
+
+      - name: Download WakaTime Stats
+        run: |
+          scala-cli scripts/wakatime.scala
+
+      - name: Commit and push WakaTime stats
+        uses: actions4git/add-commit-push@v1
+        with:
+          commit_message: 'Update WakaTime stats'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GIT_AUTHOR_NAME: 'GitHub Actions'
+          GIT_AUTHOR_EMAIL: '
+
