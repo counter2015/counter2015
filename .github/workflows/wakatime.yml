@@ -23,7 +23,7 @@ jobs:
 
       - name: Download WakaTime Stats
         run: |
-          scala-cli scripts/wakatime.scala
+          scala-cli scripts/wakatimeImage.scala
 
       - name: Commit and push WakaTime stats
         uses: actions4git/add-commit-push@v1
