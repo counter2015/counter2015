@@ -29,8 +29,4 @@ jobs:
         uses: actions4git/add-commit-push@v1
         with:
           commit_message: 'Update WakaTime stats'
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GIT_AUTHOR_NAME: 'GitHub Actions'
-          GIT_AUTHOR_EMAIL: '
 
