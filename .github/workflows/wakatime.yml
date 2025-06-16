@@ -28,5 +28,5 @@ jobs:
       - name: Commit and push WakaTime stats
         uses: actions4git/add-commit-push@v1
         with:
-          commit_message: 'Update WakaTime stats'
+          commit-message: 'Update WakaTime stats'
 
